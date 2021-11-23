@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 국비 지원 교육 수료
 
-###팀프로젝트 - 같이 가!
+### 팀프로젝트 - 같이 가!
