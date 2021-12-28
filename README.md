@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **cheol418/cheol418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 국비 지원 교육 - (디지털컨버전스)디지털기술 융합 자바(JAVA) 기반 응용SW 개발자 양성과정 / 중앙정보처리학원
+### 국비 지원 교육 - (디지털컨버전스)디지털기술 융합 자바(JAVA) 기반 응용SW 개발자 양성과정 / 중앙정보처리학원
 
-### 팀프로젝트 - 같이 가! / RESTAPI 활용 , 공연 정보 활용
+#### 팀프로젝트 - 같이 가! / RESTAPI 활용 , 공연 정보 활용
 
 
