@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 #### 팀프로젝트 - 같이 가! / RESTAPI 활용 , 공연 정보 활용
 
+#### 자바 알고리즘 / 자료구조 학습중 - 인프런 강의 및 프로그래머스 
+
+
+
 
